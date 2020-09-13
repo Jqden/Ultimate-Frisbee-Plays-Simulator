@@ -144,7 +144,7 @@ def main():
                 # Shared behavior for altering offense and defense
                 if event.type == pygame.KEYDOWN and event.key == pygame.K_BACKSPACE:  # press BACKSPACE to del a player
                     all_players.remove(player_to_alter)
-                    if isinstance(player, Offender):
+                    if isinstance(player_to_alter, Offender):
                         dots.empty()
                         offenders.remove(player_to_alter)
                     else:
