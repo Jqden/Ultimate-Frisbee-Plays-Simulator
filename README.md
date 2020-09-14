@@ -1,3 +1,9 @@
+# Ultimate Frisbee Plays Simulator
+
+## Animating Plays
+
+## Functionality Examples
+
 You can place offensive (red) and defensive (blue) players anywhere on the field by left clicking. Press the button on the top left corner to change teams. Clicking somewhere off the field does not place a player.
 
 You can also delete a player by clicking on them and hitting backspace.
