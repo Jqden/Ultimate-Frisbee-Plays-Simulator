@@ -1,7 +1,13 @@
 # Ultimate Frisbee Plays Simulator
 
 ## Purpose
-The Ultimate Frisbee Plays Simulator is a tool for graphically creating and simulating ultimate frisbee plays. Below are two images of real ultimate frisbee plays, with the x's denoting offense and the bars denoting defense. Looking at the pictures, its unclear what the plays are designed to accomplish and why they work because we are dealing with a static image; we can't see the relative positions of the players before and after moving. However, the animated versions created using the simulator make the intent obvious. For instance, in the first play, all the downfield offensive players (in red) run to the side except one. As the play progresses, it becomes obvious that the one player who stayed now has lots of room to get open in, and the other players are nicely organized on the side of the field. In the second play, its again made clear that the one offender who stays in the middle has lots of space left behind by his teammates who ran to the side. Additionally, at the end of the play we can see that the offender furthest down the field is very naturally set up to run deep after the person below him gets open.
+The Ultimate Frisbee Plays Simulator is a tool for graphically creating and simulating ultimate frisbee plays.
+
+Below are two images of real ultimate frisbee plays, with the x's denoting offense and the bars denoting defense. Looking at the pictures, its unclear what the plays are designed to accomplish and why they work because we are dealing with a static image; we can't see the relative positions of the players before and after moving.
+
+However, the animated versions created using the simulator make the intent obvious. For instance, in the first play, all the downfield offensive players (in red) run to the side except one. As the play progresses, it becomes obvious that the one player who stayed now has lots of room to get open in, and the other players are nicely organized on the side of the field.
+
+In the second play, its again made clear that the one offender who stays in the middle has lots of space left behind by his teammates who ran to the side. Additionally, at the end of the play we can see that the offender furthest down the field is very naturally set up to run deep after the person below him gets open.
 
 <img src="media/StaticPlay.PNG" width="440" height="374" /> ![](media/AnimatedPlay.gif)
 
