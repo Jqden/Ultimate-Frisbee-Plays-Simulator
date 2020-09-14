@@ -4,9 +4,9 @@
 
 The Ultimate Frisbee Plays Simulator is a tool for graphically creating and simulating ultimate frisbee plays. Below are two images of real ultimate frisbee plays, with the x's denoting offense and the bars denoting defense. Looking at the pictures, its unclear what the plays are designed to accomplish and why they work because we are dealing with a static image; we can't see the relative positions of the players before and after moving. However, the animated versions created using the simulator make the intent obvious. For instance, in the first play, all the downfield offensive players (in red) run to the side except one. As the play progresses, it becomes obvious that the one player who stayed now has lots of room to get open in, and the other players are nicely organized on the side of the field. In the second play, its again made clear that the one offender who stays in the middle has lots of space left behind by his teammates who ran to the side. Additionally, at the end of the play we can see that the offender furthest down the field is very naturally set up to run deep after the person below him gets open.
 
-![](StaticPlay.PNG) ![](AnimatedPlay.gif)
+![](media/StaticPlay.PNG) ![](media/AnimatedPlay.gif)
 
-![](StaticPlay2.PNG) ![](AnimatedPlay2.gif)
+![](media/StaticPlay2.PNG) ![](media/AnimatedPlay2.gif)
 
 The simulator makes it easier to understand the purpose and function of real ultimate frisbee plays.
 
@@ -20,7 +20,7 @@ You can place offensive (red) and defensive (blue) players anywhere on the field
 
 You can also delete a player by clicking on them and hitting backspace.
 
-![](PlacePlayers.gif) ![](DeletePlayers.gif)
+![](media/PlacePlayers.gif) ![](media/DeletePlayers.gif)
 
 When you hover over a player, they become highlighted showing you can alter them by clicking on them. For offense, you can give the player a set of points to run between. Small dots indicate the path the offensive player will take.
 
@@ -28,10 +28,10 @@ Many offensive players can run in their paths simultaneously.
 
 An offensive players path can also be expanded while the player is at the end of the path. Their path can also be reset back to the first position in the path by pressing r.
 
-![](PathOffense.gif) ![](PathMultipleOffense.gif) ![](ExpandOffensePath.gif)
+![](media/PathOffense.gif) ![](media/PathMultipleOffense.gif) ![](media/ExpandOffensePath.gif)
 
 The offensive players' path can be cleared by clicking the player and pressing c.
 
 When a defensive player is highlighted, you can assign them to play defense on an offensive player.
 
-![](RePathOffense.gif) ![](AssignDtoO.gif)
+![](media/RePathOffense.gif) ![](media/AssignDtoO.gif)
